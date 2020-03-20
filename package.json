@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./src/todo.js",
-    "debug": "DEBUG=express:* nodemon ./src/todo.js",
+    "start": "nodemon ./src/app.js",
+    "debug": "DEBUG=express:* nodemon ./src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
